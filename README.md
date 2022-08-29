@@ -30,12 +30,10 @@ Other Azure Technologies : App Service
 
  📸![1](https://user-images.githubusercontent.com/111177763/187229732-9fbe7852-87c5-4fde-8cdb-37c821a42a99.png)
 ![2](https://user-images.githubusercontent.com/111177763/187230073-344cfa12-c2ca-440d-9651-874165a82bcd.png)
-![3](https://user-images.githubusercontent.com/111177763/187230102-eb055444-867b-4b5f-9f78-313fcc2faabf.png)
-![4](https://user-images.githubusercontent.com/111177763/187230148-ce473350-f4d3-4793-817e-530f2f1018ac.png)
-![1](https://user-images.githubusercontent.com/111177763/187230159-aaac0693-a84e-41df-8f85-fb6914354b93.png)
-![5](https://user-images.githubusercontent.com/111177763/187230203-7813b79d-60cf-4528-8999-b150de264cc6.png)
-![2](https://user-images.githubusercontent.com/111177763/187230205-69b2fd24-369a-4c96-a647-f3e851a29e79.png)
-![3](https://user-images.githubusercontent.com/111177763/187230208-005363d0-3539-4f6d-bbba-3e81745a0c6c.png)
+![3](https://user-images.githubusercontent.com/111177763/187230469-b3f2d1e8-fbb2-4e74-af87-187e3f96323a.png)
+![4](https://user-images.githubusercontent.com/111177763/187230513-445cd974-dd4e-48a9-8f80-c2ed89867074.png)
+![5](https://user-images.githubusercontent.com/111177763/187230589-2838444e-c121-4e46-b3f8-1ee655f93bb6.png)
+
 
 
 

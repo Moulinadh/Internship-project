@@ -11,8 +11,7 @@ Note: Bot is deployed on contact page
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://ashy-forest-0978d2910.azurestaticapps.net/index.html
-
+**Project Link** - https://sites.google.com/view/mouli-fashion-world--shopping/home?authuser=0
 
 ## Problem Statement/Opportunity :
 An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Product detail Page, Cart, Product Category Page, Checkout Page along with FAQ Bot deployed on Website for customers help.

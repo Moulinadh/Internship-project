@@ -29,27 +29,14 @@ Other Azure Technologies : App Service
 
 
  📸![1](https://user-images.githubusercontent.com/111177763/187229732-9fbe7852-87c5-4fde-8cdb-37c821a42a99.png)
+![2](https://user-images.githubusercontent.com/111177763/187230073-344cfa12-c2ca-440d-9651-874165a82bcd.png)
+![3](https://user-images.githubusercontent.com/111177763/187230102-eb055444-867b-4b5f-9f78-313fcc2faabf.png)
+![4](https://user-images.githubusercontent.com/111177763/187230148-ce473350-f4d3-4793-817e-530f2f1018ac.png)
+![1](https://user-images.githubusercontent.com/111177763/187230159-aaac0693-a84e-41df-8f85-fb6914354b93.png)
+![5](https://user-images.githubusercontent.com/111177763/187230203-7813b79d-60cf-4528-8999-b150de264cc6.png)
+![2](https://user-images.githubusercontent.com/111177763/187230205-69b2fd24-369a-4c96-a647-f3e851a29e79.png)
+![3](https://user-images.githubusercontent.com/111177763/187230208-005363d0-3539-4f6d-bbba-3e81745a0c6c.png)
 
-## Login Page
-![Screenshot 2022-08-25 114355](https://user-images.githubusercontent.com/111211348/186595483-4ca2ee49-e503-41ba-a493-48d1ffa9f6bf.png)
-
-## Products
-![Screenshot 2022-08-25 114129](https://user-images.githubusercontent.com/111211348/186595904-ca893e2c-31ac-46b8-b857-6439e00513f8.png)
-
-## Categories
-![Screenshot 2022-08-25 114218](https://user-images.githubusercontent.com/111211348/186596286-3770f505-2eee-4334-a38f-f3fccb2fa351.png)
-
-## Contact Us
-![Screenshot 2022-08-25 114315](https://user-images.githubusercontent.com/111211348/186596524-e15088a7-930f-46ca-9c75-1812d31aac71.png)
-
-## Our Features!
-![Screenshot 2022-08-25 114442](https://user-images.githubusercontent.com/111211348/186597232-9b57bcc1-4798-4239-92bc-186dc1a00887.png)
-
-## Search Option
-![Screenshot 2022-08-25 114537](https://user-images.githubusercontent.com/111211348/186597362-11867c4a-b2dd-47df-abd5-640a35cd76ab.png)
-
-## Cart
-![Screenshot 2022-08-25 114621](https://user-images.githubusercontent.com/111211348/186597502-ee946b78-b3a4-4efd-a96c-508ff4d03db8.png)
 
 
 

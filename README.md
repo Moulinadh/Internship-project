@@ -1,4 +1,4 @@
-✨ E-Commerce Website with FAQ Bot ✨
+✨ Onlie Shopping ✨
 
 This is 10 Page E-commerce Front End website design
 
@@ -26,9 +26,9 @@ Azure Bot Service, QnA Maker, Static Web Apps
 Other Azure Technologies : App Service
 
 ## Screenshots
-## Home Page
 
- 📸![Screenshot 2022-08-25 114028](https://user-images.githubusercontent.com/111211348/186595284-f46907cf-2b1d-4d97-b249-ddb1f17381c3.png)
+
+ 📸![1](https://user-images.githubusercontent.com/111177763/187229732-9fbe7852-87c5-4fde-8cdb-37c821a42a99.png)
 
 ## Login Page
 ![Screenshot 2022-08-25 114355](https://user-images.githubusercontent.com/111211348/186595483-4ca2ee49-e503-41ba-a493-48d1ffa9f6bf.png)
